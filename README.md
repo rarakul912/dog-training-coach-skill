@@ -46,11 +46,20 @@ Just tell Claude about your dog:
 
 ```
 Help me train my dog. Name: Bao, Pomapoo, 9 months, neutered, 2 kg.
-We live in a small apartment. He barks when the doorbell rings
+We live in a small apartment. Bao barks when the doorbell rings
 and gets over-excited and pulls toward other dogs.
 ```
 
-Then report back each day ("He barked at the door again, but only twice"), and the coach writes the next diary entry. The coach replies in your language (English, Japanese, Chinese and more).
+Then report back each day ("Barked at the door again, but only twice today"), and the coach writes the next diary entry. The coach replies in your language (English, Japanese, Chinese and more).
+
+## 🖼 Example
+
+The profile card and week-1 plan the coach made for Bao Bao, a 9-month-old Pomapoo:
+
+<p>
+  <img src="images/baobao-profile-en.png" alt="Dog Profile Card for Bao Bao" width="49%">
+  <img src="images/baobao-roadmap-en.png" alt="Week 1 Training Plan for Bao Bao" width="49%">
+</p>
 
 ## 📁 Structure
 
@@ -108,6 +117,8 @@ This skill gives general training guidance. It is not a substitute for veterinar
 **理念**：以正向强化与动物福祉（LIMA 原则）为底线。以 Kikopup（Emily Larlham）、Grisha Stewart（BAT）、MASUMI（Doggies 911）为主干，对 Cesar Millan、Tom Davis、Larry Krohn 的理念区分「采用」与「不采用」。本项目为个人整理，与上述训犬师及其机构无关。
 
 **安装**：见上方「Installation」。直接用中文对 Claude 说话，它就会用中文回复。
+
+**示例**：[犬只档案卡](images/baobao-profile.png) · [第 1 周路线图](images/baobao-roadmap.png)
 
 **免责声明**：本 Skill 提供一般性训练建议，不能代替兽医诊断或专业行为咨询。
 
